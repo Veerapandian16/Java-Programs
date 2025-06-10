@@ -1,1 +1,1 @@
-# Java-Programs
+This repository contains a collection of simple Java programs that I have practiced as part of my learning journey. These programs cover basic to intermediate concepts in Java such as control structures, loops, arrays, strings, functions, and more.
